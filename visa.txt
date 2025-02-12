@@ -292,9 +292,9 @@ www.racknerd.com#大厂优选域名
 store.epicgames.com#大厂优选域名
 www.epicgames.com#大厂优选域名
 ppc.land#优选域名
-portal.cloudflarepartners.com#CF家的【推荐】,
-support.cloudflarewarp.com#CF家的【推荐1-1-1-1】,
-developers.cloudflare.com#CF家的【推荐】,
+portal.cloudflarepartners.com#CF家的【推荐】
+support.cloudflarewarp.com#CF家的【推荐1-1-1-1】
+developers.cloudflare.com#CF家的【推荐】
 ai.cloudflare.com#CF家
 try.cloudflare.com#CF家
 blog.cloudflare.com#CF家
