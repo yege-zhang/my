@@ -1,20 +1,20 @@
-adidas.com #全球
-adidas.us #美国
-adidas.co.uk #英国
-adidas.ca #加拿大
-adidas.com.au #澳大利亚
-adidas.fr #法国
-adidas.de #德国
-adidas.it #意大利
-adidas.es #西班牙
-adidas.jp #日本
-adidas.cn #中国
-adidas.in #印度
-adidas.com.mx #墨西哥
-adidas.com.br #巴西
-adidas.ru #俄罗斯
-adidas.co.za #南非
-adidas.ae #阿联酋
-adidas.sg #新加坡
-adidas.kr #韩国
-adidas.com.tr #土耳其
+adidas.com#Adidas全球
+adidas.us#Adidas美国
+adidas.co.uk#Adidas英国
+adidas.ca#Adidas加拿大
+adidas.com.au#Adidas澳大利亚
+adidas.fr#Adidas法国
+adidas.de#Adidas德国
+adidas.it#Adidas意大利
+adidas.es#Adidas西班牙
+adidas.jp#Adidas日本
+adidas.cn#Adidas中国
+adidas.in#Adidas印度
+adidas.com.mx#Adidas墨西哥
+adidas.com.br#Adidas巴西
+adidas.ru#Adidas俄罗斯
+adidas.co.za#Adidas南非
+adidas.ae#Adidas阿联酋
+adidas.sg#Adidas新加坡
+adidas.kr#Adidas韩国
+adidas.com.tr#Adidas土耳其

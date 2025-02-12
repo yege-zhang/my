@@ -1,20 +1,20 @@
-coca-cola.com #全球
-coca-cola.us #美国
-coca-cola.co.uk #英国
-coca-cola.ca #加拿大
-coca-cola.com.au #澳大利亚
-coca-cola.fr #法国
-coca-cola.de #德国
-coca-cola.it #意大利
-coca-cola.es #西班牙
-coca-cola.jp #日本
-coca-cola.cn #中国
-coca-cola.in #印度
-coca-cola.com.mx #墨西哥
-coca-cola.com.br #巴西
-coca-cola.ru #俄罗斯
-coca-cola.co.za #南非
-coca-cola.ae #阿联酋
-coca-cola.sg #新加坡
-coca-cola.kr #韩国
-coca-cola.com.tr #土耳其
+coca-cola.com#Coca-Cola全球
+coca-cola.us#Coca-Cola美国
+coca-cola.co.uk#Coca-Cola英国
+coca-cola.ca#Coca-Cola加拿大
+coca-cola.com.au#Coca-Cola澳大利亚
+coca-cola.fr#Coca-Cola法国
+coca-cola.de#Coca-Cola德国
+coca-cola.it#Coca-Cola意大利
+coca-cola.es#Coca-Cola西班牙
+coca-cola.jp#Coca-Cola日本
+coca-cola.cn#Coca-Cola中国
+coca-cola.in#Coca-Cola印度
+coca-cola.com.mx#Coca-Cola墨西哥
+coca-cola.com.br#Coca-Cola巴西
+coca-cola.ru#Coca-Cola俄罗斯
+coca-cola.co.za#Coca-Cola南非
+coca-cola.ae#Coca-Cola阿联酋
+coca-cola.sg#Coca-Cola新加坡
+coca-cola.kr#Coca-Cola韩国
+coca-cola.com.tr#Coca-Cola土耳其

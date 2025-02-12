@@ -1,20 +1,20 @@
-mcdonalds.com #全球
-mcdonalds.us #美国
-mcdonalds.co.uk #英国
-mcdonalds.ca #加拿大
-mcdonalds.com.au #澳大利亚
-mcdonalds.fr #法国
-mcdonalds.de #德国
-mcdonalds.it #意大利
-mcdonalds.es #西班牙
-mcdonalds.jp #日本
-mcdonalds.cn #中国
-mcdonalds.in #印度
-mcdonalds.com.mx #墨西哥
-mcdonalds.com.br #巴西
-mcdonalds.ru #俄罗斯
-mcdonalds.co.za #南非
-mcdonalds.ae #阿联酋
-mcdonalds.sg #新加坡
-mcdonalds.kr #韩国
-mcdonalds.com.tr #土耳其
+mcdonalds.com#McDonald's全球
+mcdonalds.us#McDonald's美国
+mcdonalds.co.uk#McDonald's英国
+mcdonalds.ca#McDonald's加拿大
+mcdonalds.com.au#McDonald's澳大利亚
+mcdonalds.fr#McDonald's法国
+mcdonalds.de#McDonald's德国
+mcdonalds.it#McDonald's意大利
+mcdonalds.es#McDonald's西班牙
+mcdonalds.jp#McDonald's日本
+mcdonalds.cn#McDonald's中国
+mcdonalds.in#McDonald's印度
+mcdonalds.com.mx#McDonald's墨西哥
+mcdonalds.com.br#McDonald's巴西
+mcdonalds.ru#McDonald's俄罗斯
+mcdonalds.co.za#McDonald's南非
+mcdonalds.ae#McDonald's阿联酋
+mcdonalds.sg#McDonald's新加坡
+mcdonalds.kr#McDonald's韩国
+mcdonalds.com.tr#McDonald's土耳其
