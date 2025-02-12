@@ -1,0 +1,48 @@
+apple.com # 全球主站
+apple.cn # 中国
+apple.com.hk # 中国香港
+apple.com.tw # 中国台湾
+apple.co.jp # 日本
+apple.co.kr # 韩国
+apple.de # 德国
+apple.fr # 法国
+apple.co.uk # 英国
+apple.ca # 加拿大
+apple.com.au # 澳大利亚
+apple.in # 印度
+apple.ru # 俄罗斯
+apple.com.br # 巴西
+apple.com.mx # 墨西哥
+apple.it # 意大利
+apple.es # 西班牙
+apple.nl # 荷兰
+apple.ch # 瑞士
+apple.se # 瑞典
+apple.ae # 阿联酋
+apple.sg # 新加坡
+apple.my # 马来西亚
+apple.th # 泰国
+apple.id # 印度尼西亚
+apple.vn # 越南
+apple.pl # 波兰
+apple.tr # 土耳其
+apple.za # 南非
+apple.sa # 沙特阿拉伯
+support.apple.com # 全球支持
+developer.apple.com # 开发者网站
+appstore.com # App Store
+icloud.com # iCloud服务
+itunes.com # iTunes（已逐步整合）
+appleid.apple.com # Apple ID管理
+apps.apple.com # App Store应用页面
+beta.apple.com # Beta测试计划
+education.apple.com # 教育相关
+business.apple.com # 企业相关
+school.apple.com # 学校相关
+apple.com/tv # Apple TV
+apple.com/music # Apple Music
+apple.com/news # Apple News
+apple.com/events # Apple活动页面
+apple.news # Apple新闻服务
+apple.health # 健康相关（示例）
+apple.care # 支持与关怀（示例）
