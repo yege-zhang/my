@@ -100,3 +100,4 @@ cf.345673.xyz#优选第三方域名
 jp.byun.eu.org#优选第三方域名
 un.goasa.top#优选第三方域名
 emby2.misakaf.org#优选第三方域名
+love.speed.简书.cn#Free
