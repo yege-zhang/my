@@ -1,133 +1,395 @@
-cf.090227.xyz #三网自适应分流官方优选
-ct.090227.xyz #电信官方优选
-cmcc.090227.xyz #移动官方优选
-shopify.com #优选域名
-time.is #优选域名
-icook.hk #优选域名
-icook.tw #优选域名
-ip.sb #优选域名
-japan.com #优选域名
-malaysia.com #优选域名
-russia.com #优选域名
-singapore.com #优选域名
-skk.moe #优选域名
-cf-cname.xingpingcn.top #优选域名
-cfip.xxxxxxxx.tk #OTC提供维护官方优选
-bestcf.onecf.eu.org #Mingyu提供维护官方优选
-cf.zhetengsha.eu.org #小一提供维护官方优选
-acjp2.cloudflarest.link #KJKKK维护官方优选
-achk.cloudflarest.link #KJKKK维护官方优选
-xn--b6gac.eu.org #第三方优选域名
-yx.887141.xyz #第三方优选域名
-8.889288.xyz #第三方优选域名
-cfip.1323123.xyz #第三方优选域名
-cf.515188.xyz #第三方优选域名
-cf-st.annoy.eu.org #第三方优选域名
-cf.0sm.com #第三方优选域名
-cf.877771.xyz #第三方优选域名
-cf.345673.xyz #第三方优选域名
-bestproxy.onecf.eu.org #Mingyu提供维护反代优选
-proxy.xxxxxxxx.tk #OTC提供维护反代优选
-time.cloudflare.com #优选官方域名
-www.gco.gov.qa #优选官方域名
-www.gov.se #优选官方域名
-www.gov.ua #优选官方域名
-www.digitalocean.com #优选官方域名
-www.csgo.com #优选官方域名
-www.shopify.com #优选官方域名
-www.whoer.net #优选官方域名
-www.whatismyip.com #优选官方域名
-www.ipget.net #优选官方域名
-www.hugedomains.com #优选官方域名
-www.udacity.com #优选官方域名
-www.4chan.org #优选官方域名
-www.okcupid.com #优选官方域名
-www.glassdoor.com #优选官方域名
-www.udemy.com #优选官方域名
-www.baipiao.eu.org #优选官方域名
-alejandracaiccedo.com #优选官方域名
-log.bpminecraft.com #优选官方域名
-www.boba88slot.com #优选官方域名
-gur.gov.ua #优选官方域名
-www.zsu.gov.ua #优选官方域名
-www.iakeys.com #优选官方域名
-edtunnel-dgp.pages.dev #优选官方域名
-www.d-555.com #优选官方域名
-fbi.gov #优选官方域名
-www.sean-now.com #优选官方域名
-download.yunzhongzhuan.com #优选官方域名
-whatismyipaddress.com #优选官方域名
-www.ipaddress.my #优选官方域名
-www.pcmag.com #优选官方域名
-www.ipchicken.com #优选官方域名
-www.iplocation.net #优选官方域名
-iplocation.io #优选官方域名
-www.who.int #优选官方域名
-www.wto.org #优选官方域名
-wz.weishao2023.dk.eu.org  #优选官方域名
-cloudflare.cfgo.cc  #优选官方域名
-stock.hostmonit.com #优选官方域名 
-www.lyzdzy.com #优选官方域名 
-xs.wxtv.cc  #优选官方域名
-cf.zmdhc.com  #优选官方域名
-www.90dushu.com  #优选官方域名
-www.tushencn.com  #优选官方域名
-7sc.cc  #优选官方域名
-0550cq.com  #优选官方域名
-www.xinpian8.com  #优选官方域名
-www.c333.net  #优选官方域名
-www.7749tv.com  #优选官方域名
-www.888dyy.cc  #优选官方域名
-manmankan.cc  #优选官方域名
-www.ddwhm.com #优选官方域名
-cdn-all.xn--b6gac.eu.org #优选官方域名
-086181.xyz  #第三方优选域名
-yx.887141.xyz #第三方优选域名
-8.889288.xyz #第三方优选域名
-acjp2.cloudflarest.link #第三方优选域名
-achk.cloudflarest.link #第三方优选域名
-cf-st.annoy.eu.org #第三方优选域名
-cf.0sm.com #第三方优选域名
-xn--b6gac.eu.org #第三方优选域名
-cf.877771.xyz #第三方优选域名
-cf.515188.xyz #第三方优选域名
-cfip.xxxxxxxx.tk #第三方优选域名
-cf.zhetengsha.eu.org #第三方优选域名
-cfip.1323123.xyz #第三方优选域名
-bestcf.onecf.eu.org #第三方优选域名
-cf.345673.xyz #第三方优选域名
-jp.byun.eu.org #第三方优选域名
-un.goasa.top #第三方优选域名
-emby2.misakaf.org #第三方优选域名
-cf.877774.xyz #三网自适应
-ct.877774.xyz@中国电信
-cmcc.877774.xyz #中国移动
-cu.877774.xyz #中国联通
-asia.877774.xyz #亚洲优选
-eur.877774.xyz #欧洲优选
-na.877774.xyz #美洲优选
-cdnjs.com #【推荐】优选域名
-www.racknerd.com #大厂优选域名
-store.epicgames.com #大厂优选域名
-www.epicgames.com #大厂优选域名
-ppc.land #优选域名
-portal.cloudflarepartners.com #CF家的【推荐】
-support.cloudflarewarp.com #CF家的【推荐1-1-1-1】
-developers.cloudflare.com #CF家的【推荐】
-ai.cloudflare.com #CF家
-try.cloudflare.com #CF家
-blog.cloudflare.com #CF家
-community.cloudflare.com #CF家的
-abuse.cloudflare.com #CF家的
-sso.cloudflare.dev #CF家的
-ns5.cloudflare.com #CF家的
-ns6.cloudflare.com #CF家的
-ns7.cloudflare.com #CF家的
-ns3.cloudflare.com #CF家的
-ns4.cloudflare.com #CF家的
-workers.cloudflare.com #CF家的【推荐】
-radar.cloudflare.com #CF家的
-support.cloudflare.com #CF家的
-challenge.developers.cloudflare.com #CF家的
-pages.cloudflare.com #CF家的
-ns.cloudflare.com #CF家的【推荐】
+visa.com
+americanexpress.com
+paypal.com
+discover.com
+stripe.com
+chase.com
+capitalone.com
+citibank.com
+revolut.com
+wise.com
+remitly.com
+transferwise.com
+xoom.com
+venmo.com
+zellepay.com
+alipay.com
+wechatpay.com
+payoneer.com
+skrill.com
+neteller.com
+google.com
+youtube.com
+cloudflare.com
+openai.com
+shopify.com
+facebook.com
+instagram.com
+twitter.com
+linkedin.com
+pinterest.com
+reddit.com
+quora.com
+medium.com
+tumblr.com
+microsoft.com
+apple.com
+amazon.com
+netflix.com
+hulu.com
+walmart.com
+bestbuy.com
+homeDepot.com
+kohls.com
+macys.com
+sears.com
+costco.com
+nordstrom.com
+target.com
+etsy.com
+wayfair.com
+bloomingdales.com
+bhphotovideo.com
+adobe.com
+github.com
+stackoverflow.com
+smashingmagazine.com
+trello.com
+slack.com
+asana.com
+zoom.us
+miro.com
+notion.so
+google.com
+bing.com
+yahoo.com
+duckduckgo.com
+wikipedia.org
+wikimedia.org
+imdb.com
+rottentomatoes.com
+crunchbase.com
+kickstarter.com
+indiegogo.com
+zoominfo.com
+craigslist.org
+uber.com
+lyft.com
+airbnb.com
+expedia.com
+tripadvisor.com
+booking.com
+priceline.com
+kayak.com
+trivago.com
+skyscanner.com
+travelocity.com
+hotels.com
+orbitz.com
+qantas.com.au
+virgin.com
+aerlingus.com
+ryanair.com
+aircanada.com
+lufthansa.com
+easyjet.com
+delta.com
+united.com
+americanairlines.com
+emirates.com
+qatarairways.com
+etihad.com
+singaporeair.com
+cathaypacific.com
+ethiopianairlines.com
+southwest.com
+jetblue.com
+austrian.com
+transavia.com
+frenchbulldog.com
+contiki.com
+celestyalcruises.com
+carnival.com
+royalcaribbean.com
+msc.com
+princess.com
+celebritycruises.com
+norwegiancruiseline.com
+mountainhardwear.com
+patagonia.com
+northface.com
+columbia.com
+rei.com
+arc'teryx.com
+lululemon.com
+nike.com
+adidas.com
+underarmour.com
+puma.com
+skullcandy.com
+bose.com
+sonos.com
+marshallheadphones.com
+beatsbydre.com
+jbl.com
+samsung.com
+sony.com
+lg.com
+xiaomi.com
+huawei.com
+motorola.com
+nokia.com
+lenovo.com
+acer.com
+dell.com
+hp.com
+asus.com
+msi.com
+razer.com
+alienware.com
+kaspersky.com
+symantec.com
+mcafee.com
+norton.com
+avast.com
+bitdefender.com
+trendmicro.com
+zonealarm.com
+aol.com
+mail.com
+zoho.com
+protonmail.com
+fastmail.com
+mailchimp.com
+sendgrid.com
+strikingly.com
+wix.com
+squarespace.com
+weebly.com
+shopify.com
+bigcommerce.com
+weebly.com
+wordpress.com
+contentful.com
+hatchful.shopify.com
+templatemonster.com
+envato.com
+themeforest.net
+codepen.io
+gitlab.com
+bitbucket.org
+gitbucket.com
+heroku.com
+netlify.com
+firebase.google.com
+aws.amazon.com
+azure.microsoft.com
+googlecloud.com
+cloud.google.com
+1stwebdesigner.com  
+2ality.com  
+4sysops.com  
+8tracks.com  
+99designs.com  
+abduzeedo.com  
+aerotime.aero  
+affinityspot.com  
+aiowiki.com  
+allaboutcircuits.com  
+alltricks.com  
+alphr.com  
+alternativeto.net  
+amcharts.com  
+androidcentral.com  
+animenewsnetwork.com  
+anitube.in  
+apkmirror.com  
+appinn.com  
+archiveofourown.org  
+are.na  
+arstechnica.net  
+artstation.com  
+ascii.jp  
+avxhome.se  
+baeldung.com  
+bandcamp.com  
+bbs.archlinux.org  
+beebom.com  
+behindthevoiceactors.com  
+betanews.com  
+bigcartel.com  
+bit-tech.net  
+bitbucket.io  
+bitmovin.com  
+bleepingcomputer.com  
+boardgamegeek.com  
+boingboing.net  
+boredpanda.com  
+brainpickings.org  
+bugsnag.com  
+calibre-ebook.com  
+caniuse.com  
+carbonmade.com  
+ccm.net  
+chocolatey.org  
+cinemablend.com  
+cloudconvert.com  
+codecanyon.net  
+codeforces.com  
+codementor.io  
+coinmarketcap.com  
+coolors.co  
+coroflot.com  
+coursera.community  
+cpan.org  
+craftcms.com  
+cryptopanic.com  
+css-tricks.com  
+cyberciti.biz  
+daily.dev  
+daringfireball.net  
+datasheetarchive.com  
+dev.to  
+deviantart.net  
+digikey.com  
+dlsite.com  
+dnsperf.com  
+docs.rs  
+doyouremember.com  
+dribbble.com  
+duckduckgo.community  
+e-hentai.org  
+ebook3000.com  
+echarts.apache.org  
+ejs.co  
+elecfans.com  
+elektor.com  
+engadget.net  
+etherpad.org  
+exophase.com  
+extmatrix.com  
+f-droid.org  
+filecr.com  
+fiverr.com  
+flathub.org  
+fmovies.to  
+fontsquirrel.com  
+freecodecamp.org  
+freedownloadmanager.org  
+freelancer.com  
+frontendmasters.com  
+furaffinity.net  
+gamasutra.com  
+gfycat.com  
+ghost.org  
+giphy.com  
+glitch.me  
+gnu.org  
+go.dev  
+gomovies.sc  
+graphicburger.com  
+hackaday.com  
+hackage.haskell.org  
+hackerone.com  
+haxball.com  
+hdfull.io  
+hitfilm.com  
+hostloc.com  
+howtogeek.net  
+html5rocks.com  
+hwbot.org  
+ichunqiu.com  
+iconfinder.com  
+idownloadblog.com  
+ifttt.com  
+igdb.com  
+ilpost.it  
+indiehackers.com  
+instructables.com  
+iotwiser.com  
+ipv6-test.com  
+itch.io  
+japaneseclass.jp  
+javaranch.com  
+jsdelivr.net  
+kali.org  
+keybr.com  
+koofr.net  
+latex-project.org  
+librivox.org  
+linustechtips.com  
+littlealchemy.com  
+livechart.me  
+lwn.net  
+mangadex.org  
+mathjax.org  
+metafilter.com  
+mixcloud.com  
+mmo-champion.com  
+mobile01.com  
+monosnap.com  
+myanimelist.net  
+myfigurecollection.net  
+myfonts.com  
+npr.org  
+nyaa.si  
+obsproject.com  
+ocremix.org  
+opensource.com  
+osxdaily.com  
+panda.tv  
+pastebin.com  
+pdfcrowd.com  
+pexels.com  
+photopea.com  
+pixabay.com  
+pixlr.com  
+pluralsight.com  
+pokecommunity.com  
+ptt.cc  
+purecss.io  
+pythontutor.com  
+qt.io  
+quora.com  
+rapidapi.com  
+realpython.com  
+regex101.com  
+remotive.io  
+retropie.org.uk  
+rosettacode.org  
+rtings.com  
+rumble.com  
+shadertoy.com  
+sitepoint.com  
+slate.com  
+snapcraft.io  
+soundfonts.com  
+stackoverflow.co  
+subscene.com  
+svgrepo.com  
+taringa.net  
+techdirt.com  
+tildes.net  
+tineye.com  
+tinypng.com  
+tixati.com  
+torrentproject.se  
+touchdesigner.com  
+transifex.com  
+tutsplus.com  
+unsplash.com  
+userstyles.org  
+vidhub.co  
+vimeo.com  
+vimawesome.com  
+wallhaven.cc  
+weasyl.com  
+web.dev  
+webflow.com  
+wikipedia.net  
+wixstatic.com  
+wolframalpha.com  
+xip.io  
+ycombinator.com  
+zerochan.net  
+zippyshare.com  
